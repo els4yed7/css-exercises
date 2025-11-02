@@ -1,6 +1,6 @@
 .container {
   background: dodgerblue;
-  border: 4px solid midnightblue;
+  border: 4px solid rgb(200, 200, 217);
   width: 400px;
   height: 300px;
 }
